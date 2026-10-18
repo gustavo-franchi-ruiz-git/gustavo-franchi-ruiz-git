@@ -28,6 +28,6 @@ I like building software that solves real problems, and most of my projects star
 
 ### 📫 Let's connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-gustavofruiz.vercel.app](https://www.gustavofranchiruiz.com.br/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gustavofranchiruiz.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/gustavo-franchi-ruiz)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@gustavofranchiruiz.com)
